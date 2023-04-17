@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ignacio/Documents/Ecommerce/src/infrastructure/Shared/Shared.csproj": {}
+    "/home/ignacio/Documents/ProyectoArgg22/src/infrastructure/Shared/Shared.csproj": {}
   },
   "projects": {
-    "/home/ignacio/Documents/Ecommerce/src/infrastructure/Shared/Shared.csproj": {
+    "/home/ignacio/Documents/ProyectoArgg22/src/infrastructure/Shared/Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ignacio/Documents/Ecommerce/src/infrastructure/Shared/Shared.csproj",
+        "projectUniqueName": "/home/ignacio/Documents/ProyectoArgg22/src/infrastructure/Shared/Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "/home/ignacio/Documents/Ecommerce/src/infrastructure/Shared/Shared.csproj",
+        "projectPath": "/home/ignacio/Documents/ProyectoArgg22/src/infrastructure/Shared/Shared.csproj",
         "packagesPath": "/home/ignacio/.nuget/packages/",
-        "outputPath": "/home/ignacio/Documents/Ecommerce/src/infrastructure/Shared/obj/",
+        "outputPath": "/home/ignacio/Documents/ProyectoArgg22/src/infrastructure/Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ignacio/.nuget/NuGet/NuGet.Config"

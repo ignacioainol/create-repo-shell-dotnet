@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M7kvFmZt97+CP1pGT7iP+oJw+3QWJepOIrlp2Np6p95058itXDYD6JkDgn/qmSIs/UN3WrZSEgWnT0o3jF1gXw==",
+  "dgSpecHash": "mlfQUey4jFdiqVkwvVi+2Jp8DoDNwv1Dc75NaUWukZaBQWzJhS4GkEHAES9mlwNeb7CeIkvz7eUKD0u0CLjbgg==",
   "success": true,
-  "projectFilePath": "/home/ignacio/Documents/Ecommerce/src/infrastructure/Persistence/Persistence.csproj",
+  "projectFilePath": "/home/ignacio/Documents/ProyectoArgg22/src/infrastructure/Persistence/Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

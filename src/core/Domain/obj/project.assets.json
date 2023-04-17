@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ignacio/Documents/Ecommerce/src/core/Domain/Domain.csproj",
+      "projectUniqueName": "/home/ignacio/Documents/ProyectoArgg22/src/core/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/home/ignacio/Documents/Ecommerce/src/core/Domain/Domain.csproj",
+      "projectPath": "/home/ignacio/Documents/ProyectoArgg22/src/core/Domain/Domain.csproj",
       "packagesPath": "/home/ignacio/.nuget/packages/",
-      "outputPath": "/home/ignacio/Documents/Ecommerce/src/core/Domain/obj/",
+      "outputPath": "/home/ignacio/Documents/ProyectoArgg22/src/core/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ignacio/.nuget/NuGet/NuGet.Config"

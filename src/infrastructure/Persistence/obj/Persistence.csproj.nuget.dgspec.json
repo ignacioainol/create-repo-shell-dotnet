@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ignacio/Documents/Ecommerce/src/infrastructure/Persistence/Persistence.csproj": {}
+    "/home/ignacio/Documents/ProyectoArgg22/src/infrastructure/Persistence/Persistence.csproj": {}
   },
   "projects": {
-    "/home/ignacio/Documents/Ecommerce/src/infrastructure/Persistence/Persistence.csproj": {
+    "/home/ignacio/Documents/ProyectoArgg22/src/infrastructure/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ignacio/Documents/Ecommerce/src/infrastructure/Persistence/Persistence.csproj",
+        "projectUniqueName": "/home/ignacio/Documents/ProyectoArgg22/src/infrastructure/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/home/ignacio/Documents/Ecommerce/src/infrastructure/Persistence/Persistence.csproj",
+        "projectPath": "/home/ignacio/Documents/ProyectoArgg22/src/infrastructure/Persistence/Persistence.csproj",
         "packagesPath": "/home/ignacio/.nuget/packages/",
-        "outputPath": "/home/ignacio/Documents/Ecommerce/src/infrastructure/Persistence/obj/",
+        "outputPath": "/home/ignacio/Documents/ProyectoArgg22/src/infrastructure/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ignacio/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ignacio/Documents/Ecommerce/src/presentation/apiEcommerce/apiEcommerce.csproj": {}
+    "/home/ignacio/Documents/ProyectoArgg22/src/presentation/webApi/webApi.csproj": {}
   },
   "projects": {
-    "/home/ignacio/Documents/Ecommerce/src/presentation/apiEcommerce/apiEcommerce.csproj": {
+    "/home/ignacio/Documents/ProyectoArgg22/src/presentation/webApi/webApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ignacio/Documents/Ecommerce/src/presentation/apiEcommerce/apiEcommerce.csproj",
-        "projectName": "apiEcommerce",
-        "projectPath": "/home/ignacio/Documents/Ecommerce/src/presentation/apiEcommerce/apiEcommerce.csproj",
+        "projectUniqueName": "/home/ignacio/Documents/ProyectoArgg22/src/presentation/webApi/webApi.csproj",
+        "projectName": "webApi",
+        "projectPath": "/home/ignacio/Documents/ProyectoArgg22/src/presentation/webApi/webApi.csproj",
         "packagesPath": "/home/ignacio/.nuget/packages/",
-        "outputPath": "/home/ignacio/Documents/Ecommerce/src/presentation/apiEcommerce/obj/",
+        "outputPath": "/home/ignacio/Documents/ProyectoArgg22/src/presentation/webApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ignacio/.nuget/NuGet/NuGet.Config"

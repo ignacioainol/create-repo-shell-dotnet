@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WYyZsl4kby8qD4diCKA+AVRm7NlYBD0MKy8wBFwvoP+FRK+wNt+pG4Qq7dogM8mqchSWeVjcGUQb6XsHC+zxmg==",
+  "dgSpecHash": "W/+AebDJu4CQqQTw7A0mSdut6g84d69qLVgGqrntSXXEw6aGZxhLsKKPbyG92IpuNSxpdHVJ/2jljatwumcrbg==",
   "success": true,
-  "projectFilePath": "/home/ignacio/Documents/Ecommerce/src/core/Domain/Domain.csproj",
+  "projectFilePath": "/home/ignacio/Documents/ProyectoArgg22/src/core/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
